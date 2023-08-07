@@ -6,7 +6,7 @@
 
 **KEGG pathway enrichment analysis**
 
-### Project Overview:
+## Project Overview:
 
 Investigating Key Pathway Involving Mcl-1 Proteins in Mammary Glands
 
@@ -28,7 +28,7 @@ To explore the significant pathway associated with Mcl-1 proteins in mammary gla
 
 ![](https://github.com/chingyaousf/Differential-Expression-RNA-seq-Analysis/blob/main/plots/KEGG_annotation_latate_stage.png?raw=true){width="399"}
 
-### Discussion:
+## Discussion:
 
 •Trend in the Volcano plot and Venn diagrams displaying differentially expressed genes are consistent with Western blot analysis, immunohistochemistry and qRT--PCR analysis = more upregulation during lactation stage.  
 
@@ -42,7 +42,7 @@ To explore the significant pathway associated with Mcl-1 proteins in mammary gla
 
 Future studies could include a larger sample size.
 
-### References:
+## References:
 
 Fu, N. Y., Rios, A. C., Pal, B., Soetanto, R., Lun, A. T. L., Liu, K., Beck, T., Best, S. A., Vaillant, F., Bouillet, P., Strasser, A., Preiss, T., Lindeman, G. J., & Visvader, J. E. (2015). EGF-mediated induction of Mcl-1 at the switch to lactation is essential for alveolar cell survival. *Nature Cell Biology*, *17*(4), 365--375. <https://doi.org/10.1038/ncb3117>
 
