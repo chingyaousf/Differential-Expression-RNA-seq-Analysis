@@ -20,6 +20,8 @@ To explore the significant pathway associated with Mcl-1 proteins in mammary gla
 
 ![](https://github.com/chingyaousf/Differential-Expression-RNA-seq-Analysis/blob/main/plots/Venn_diagram_upregulated_downregulated_genes.png?raw=true){width="639"}
 
+![](https://github.com/chingyaousf/R-Differential-Expression-RNA-seq-Analysis/blob/main/plots/Venn_diagram_upregulated_downregulated_genes_02.png?raw=true)
+
 -   **LUMINAL CELL DURING THE LACTATION STAGE IS FAR FROM THE REMAINING SAMPLES IN THE PCA PLOT.**![](https://github.com/chingyaousf/Differential-Expression-RNA-seq-Analysis/blob/main/plots/PCA.png?raw=true){width="432"}
 
 -   **THE VOLCANO PLOT FOR THREE STAGES.** ![](https://github.com/chingyaousf/Differential-Expression-RNA-seq-Analysis/blob/main/plots/Volcano_virgin_pregnant_lactation.png?raw=true)
