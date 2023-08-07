@@ -50,11 +50,11 @@ Hinck, L. & Silberstein, G. B. Key stages in mammary gland development: the mamm
 
 Watson, C. J. Involution: apoptosis and tissue remodelling that convert the mammary gland from milk factory to a quiescent organ. Breast Cancer Res. 8, 203 (2006).
 
-### Blog:
+## Blog:
 
 <https://ssidmarine.wordpress.com/2023/08/07/differential-expression-rna-seq-analysis/>
 
-### Access data:
+## Access data:
 
 <https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60450>
 
