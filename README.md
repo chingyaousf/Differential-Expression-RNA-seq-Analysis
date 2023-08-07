@@ -14,9 +14,9 @@ To explore the significant pathway associated with Mcl-1 proteins in mammary gla
 
 -   **THE NUMBER OF DIFFERENTIAL EXPRESS GENES.**
 
-    ![](https://github.com/chingyaousf/Differential-Expression-RNA-seq-Analysis/blob/main/plots/Bar_plot_differential_expressed_genes.png?raw=true){width="375"}
+    ![](https://github.com/chingyaousf/Differential-Expression-RNA-seq-Analysis/blob/main/plots/Bar_plot_differential_expressed_genes.png?raw=true){width="374"}
 
-**GENES ARE CONSISTENTLY DIFFERENTIALLY EXPRESSED IN ALL THREE STAGES BETWEEN LUMINAL (WILD-TYPE) AND BASAL CELLS (MCL-1 DELETION).**
+-   **GENES ARE CONSISTENTLY DIFFERENTIALLY EXPRESSED IN ALL THREE STAGES BETWEEN LUMINAL (WILD-TYPE) AND BASAL CELLS (MCL-1 DELETION).**
 
 ![](https://github.com/chingyaousf/Differential-Expression-RNA-seq-Analysis/blob/main/plots/Venn_diagram_upregulated_downregulated_genes.png?raw=true){width="639"}
 
@@ -42,11 +42,19 @@ To explore the significant pathway associated with Mcl-1 proteins in mammary gla
 
 Future studies could include a larger sample size.
 
-## Blog:
+### References:
 
-<https://ssidmarine.wordpress.com/2023/06/27/intern-project-introduction/>
+Fu, N. Y., Rios, A. C., Pal, B., Soetanto, R., Lun, A. T. L., Liu, K., Beck, T., Best, S. A., Vaillant, F., Bouillet, P., Strasser, A., Preiss, T., Lindeman, G. J., & Visvader, J. E. (2015). EGF-mediated induction of Mcl-1 at the switch to lactation is essential for alveolar cell survival. *Nature Cell Biology*, *17*(4), 365--375. <https://doi.org/10.1038/ncb3117>
 
-## Access data:
+Hinck, L. & Silberstein, G. B. Key stages in mammary gland development: the mammary end bud as a motile organ. Breast Cancer Res. 7, 245--251 (2005). 
+
+Watson, C. J. Involution: apoptosis and tissue remodelling that convert the mammary gland from milk factory to a quiescent organ. Breast Cancer Res. 8, 203 (2006).
+
+### Blog:
+
+<https://ssidmarine.wordpress.com/2023/08/07/differential-expression-rna-seq-analysis/>
+
+### Access data:
 
 <https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60450>
 
