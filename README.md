@@ -18,7 +18,7 @@ To explore the significant pathway associated with Mcl-1 proteins in mammary gla
 
 -   **GENES ARE CONSISTENTLY DIFFERENTIALLY EXPRESSED IN ALL THREE STAGES BETWEEN LUMINAL (WILD-TYPE) AND BASAL CELLS (MCL-1 DELETION).**
 
-![](https://github.com/chingyaousf/Differential-Expression-RNA-seq-Analysis/blob/main/plots/Venn_diagram_upregulated_downregulated_genes.png?raw=true){width="639"}
+![](https://github.com/chingyaousf/Differential-Expression-RNA-seq-Analysis/blob/main/plots/Venn_diagram_upregulated_downregulated_genes.png?raw=true){width="938"}
 
 ![](https://github.com/chingyaousf/R-Differential-Expression-RNA-seq-Analysis/blob/main/plots/Venn_diagram_upregulated_downregulated_genes_02.png?raw=true)
 
