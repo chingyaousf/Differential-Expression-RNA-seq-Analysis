@@ -58,9 +58,9 @@ Watson, C. J. Involution: apoptosis and tissue remodelling that convert the mamm
 
 ## Access data:
 
-<https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60450>
+GSE60450 <https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60450>
 
-PMID: 25730472
+PMID: 25730472 <https://pubmed.ncbi.nlm.nih.gov/25730472/>
 
 GSE60450_Lactation-GenewiseCounts
 
